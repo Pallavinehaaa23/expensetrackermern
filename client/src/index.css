@@ -1,0 +1,40 @@
+*{
+padding:0;
+margin:0;
+box-sizing: border-box;
+ }
+ .cont{
+  height: 80vh;
+ }
+ .foot{
+  margin-top: 42pc;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 1.2pc;
+  height: 10vh;
+ }
+ .mb-3 input{
+  width:400px;
+  
+ }
+ form input {
+   width:29pc
+ 
+ }
+ .filters{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+ }
+ 
+ .active{
+  color:blue
+ }
+ .inactive{
+  color: grey;
+ }
+ .icons{
+  font-size: 2pc;
+ }
+ 
